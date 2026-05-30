@@ -1,4 +1,7 @@
+# BTC Price Prediction — ML Pipeline
 
+## 📌 Project Overview
+End-to-end machine learning pipeline to predict Bitcoin's next-day price using log returns and a 7-day sliding window. Built with scikit-learn, using SGDRegressor with L2 regularization.
 ---
 
 ## 🎯 Approach
